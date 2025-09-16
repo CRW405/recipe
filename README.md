@@ -1,14 +1,14 @@
 # Recipe Project
 
-A website that stores a few recipes and also gets a random recipe from the theMealDB
+A website that stores a couple recipes and also gets a random recipe from the theMealDB API
 
 ![Website Screenshot](./Screenshot_16-Sep_14-44-18_16215.png)
 
-## Impovements
+## Possible Impovements
 
-- More recipes
-- Links to buy ingredients or tools
-- JS Checklist to keep track of where you are in a recipe
+- A way to search for specific recipes
+- A way to track your progress through a recipe
+- Better styling
 
 ## Things Learned
 
