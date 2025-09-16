@@ -1,6 +1,8 @@
 # Recipe Project
 
-A website that stores a few recipes
+A website that stores a few recipes and also gets a random recipe from the theMealDB
+
+![Website Screenshot](./Screenshot_16-Sep_14-44-18_16215.png)
 
 ## Impovements
 
@@ -13,3 +15,4 @@ A website that stores a few recipes
 - HTML Structure
 - Good Practices
 - Project Management
+- Working with API's in JS
