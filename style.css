@@ -1,3 +1,44 @@
 img {
-    width: 50%;
+    display: block;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    text-align: center;
+}
+
+header {
+    background-color: aquamarine;
+}
+
+body {
+    /* background-image: url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fhdqwalls.com%2Fwallpapers%2Fwindows-xp-bliss-4k-lu.jpg&f=1&nofb=1&ipt=f8db07fcecf962486707b3b09301c607714cd691d611cc366f3c45c88ebf3184); */
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Ffast-food-seamless-pattern-vector-illustration-traditional-american-food-background-print-food_514903-1874.jpg%3Fw%3D2000&f=1&nofb=1&ipt=384e68bd6930243ccd071c25240e4a2969fd1e575dfcfa966c01a2768d2a5a00);
+    /* background-size: 100%; */
+    background-size: 20%;
+}
+
+p, h2, h3, h4, h5, h6, ul, ol {
+    background-color: white;
+}
+
+code, pre {
+    color: white;
+    background-color: black;
+}
+
+#cakeh2 {
+    background-color: brown;
+    color: black;
+}
+
+#pilkh2 {  
+    background-color: whitesmoke;
+    color: black;
 }
