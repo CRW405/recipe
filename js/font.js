@@ -1,8 +1,21 @@
-var all = document.getElementsByTagName("*")
-
 function fancify() {
-    for (var i = 0; i < all.length;i++) {
-        console.log(i)
-        all[i].style.fontFamily = "Monsieur La Doulaise"
-    }
+    document.querySelectorAll("body *").forEach((element) => {
+        element.style.fontFamily = "Monsieur La Doulaise, serif";
+        });
+    button = document.getElementById("button");
+    button.innerHTML = "CURE!";
+    button.onclick = antidote;
+    return;
 }
+
+function antidote()
+        {
+            document.querySelectorAll("body *").forEach((element) => {
+        element.style.fontFamily = "Arial, sans-serif";
+        });
+
+            button = document.getElementById("button");
+            button.innerHTML = "Fancify!";
+            button.onclick = fancify;
+            return;
+        }
